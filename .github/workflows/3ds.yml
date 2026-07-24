@@ -1,5 +1,5 @@
 name: Build CIA
-test 3DS build
+test 3ds build
 # Controls when the workflow will run
 on:
  push:
